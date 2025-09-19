@@ -11,7 +11,7 @@
 
 ### 📬 **Entre em Contato**
 
-Se você quiser entrar em contato comigo, pode me encontrar nas redes sociais ou enviar um e-mail:
+Se você quiser entrar em contato comigo, pode me enviar um e-mail ou acessar meu linkedin:
 
 [![Email](https://img.shields.io/badge/Email-aires.networks%40gmail.com-blue?style=for-the-badge)](mailto:aires.networks@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Aires-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavonet)
